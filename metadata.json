@@ -1,0 +1,6 @@
+{
+  "name": "SI Engine: Extraterrestrial Fire Safety",
+  "description": "Scientific Inference Engine unifying NASA PSI microgravity combustion datasets (FLEX, ACME, SAME, SAFFIRE, SPICE, BASS, DAFT, SLICE) for spacecraft fire safety assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
